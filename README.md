@@ -23,5 +23,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 This project is released under the MIT License. Feel free to modify and use it according to your needs.
 
-Authors
+## Authors
 Pahri123
